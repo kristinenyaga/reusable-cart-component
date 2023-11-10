@@ -49,5 +49,12 @@
   },
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "react",
+    "cart",
+    "shopping cart",
+    "cart component",
+    "reusable cart component"
   ]
 }
