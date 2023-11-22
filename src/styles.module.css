@@ -1,5 +1,5 @@
 /* add css module styles here (optional) */
-
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;600&family=Merriweather:wght@400;700;900&family=Poppins:wght@100;300;400;600&display=swap');
 .test {
   margin: 2em;
   padding: 0.5em;
@@ -7,7 +7,6 @@
   font-size: 2em;
   text-align: center;
 }
-@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;600&family=Merriweather:wght@400;700;900&family=Poppins:wght@100;300;400;600&display=swap');
 *{
   margin: 0;
   padding: 0;
